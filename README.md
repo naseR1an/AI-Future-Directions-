@@ -10,7 +10,6 @@ This repository explores the evolving landscape of Artificial Intelligence throu
 ✅Provide a foundation for future research and experimentation.
 
 ## Topics Covered
-Topics Covered
 ✅Edge AI and decentralized intelligence
 
 ✅Smart agriculture and precision farming
